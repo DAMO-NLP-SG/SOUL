@@ -1,0 +1,8 @@
+numpy==1.21.2
+openai==0.28.0
+pandas==1.4.2
+scikit_learn==1.1.1
+tenacity==8.2.2
+torch==1.13.1
+tqdm==4.65.0
+transformers==4.24.0
