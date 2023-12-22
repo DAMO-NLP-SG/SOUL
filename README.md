@@ -51,3 +51,21 @@ Furthermore, evaluations conducted with both human experts and GPT-4 highlight t
 <p align="center" style="display: flex; justify-content: center; align-items: center">
 <img src="./figure/radar.jpg" alt="Image" width="50%">
 </p>
+
+## Citation
+```
+@inproceedings{deng-etal-2023-soul,
+    title = "{SOUL}: Towards Sentiment and Opinion Understanding of Language",
+    author = "Deng, Yue  and
+      Zhang, Wenxuan  and
+      Pan, Sinno  and
+      Bing, Lidong",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.538",
+    pages = "8704--8711",
+}
+```
