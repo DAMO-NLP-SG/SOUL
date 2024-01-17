@@ -2,6 +2,7 @@
 
 
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center">
+📄 <a href="https://aclanthology.org/2023.emnlp-main.538.pdf" target="_blank" style="margin-right: 15px; margin-left: 10px">Paper</a> • 
 🤗 <a href="https://huggingface.co/datasets/DAMO-NLP-SG/SOUL" target="_blank" style="margin-left: 10px">Dataset</a>
 </p>
 This repo contains the data for our paper "SOUL: Towards Sentiment and Opinion Understanding of Language" in EMNLP 2023.
